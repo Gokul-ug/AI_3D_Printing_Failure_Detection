@@ -13,7 +13,6 @@ As a student, this project helped me explore how **deep learning, computer visio
 - 🔍 **Explainable AI (LIME)** to highlight important image regions
 - 🖥️ **Streamlit web app** for easy image upload and prediction
 - 🧠 Learning-focused integration of AI with manufacturing
-- 🖨️ Hands-on 3D printing experience (charger holder fabrication)
 
 ---
 
