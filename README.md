@@ -28,7 +28,7 @@ As a student, this project helped me explore how **deep learning, computer visio
 ## 🖼️ Sample Outputs
 
 ### 🔹 Streamlit Web Application
-![Streamlit App Screenshot](images/streamlit_app.jpeg)
+![Streamlit App Screenshot](/streamlit_app.jpeg)
 ---
 
 ## 🛠️ Tech Stack
